@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-21 07:31:32,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
+2025-10-21 07:56:07,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
@@ -65,9 +65,9 @@ CCTV-17,https://live.tv.darwinchow.com/channel/cctv17?livekey=01WNmrd0JLnST8Iq9d
 河北卫视,https://live.tv.darwinchow.com/channel/hebeiweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,https://live.tv.darwinchow.com/channel/henanweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 吉林卫视,https://live.tv.darwinchow.com/channel/jilinweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,https://live.tv.darwinchow.com/channel/jiangsuweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
