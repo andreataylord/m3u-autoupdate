@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-22 02:46:58,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
+2025-10-22 03:00:15,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
@@ -28,9 +28,9 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playli
 浙江卫视,https://live.tv.darwinchow.com/channel/zhejiangweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 浙江卫视,https://live.tv.darwinchow.com/channel/zhejiangweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,https://live.tv.darwinchow.com/channel/hunanweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 北京卫视,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
@@ -47,8 +47,8 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playli
 重庆卫视,https://live.tv.darwinchow.com/channel/chongqingweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 重庆卫视,http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,https://live.tv.darwinchow.com/channel/dongfangweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东南卫视,https://live.tv.darwinchow.com/channel/dongnanweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 东南卫视,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
@@ -65,8 +65,8 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playli
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,https://live.tv.darwinchow.com/channel/henanweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 吉林卫视,https://live.tv.darwinchow.com/channel/jilinweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
-江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,https://live.tv.darwinchow.com/channel/jiangsuweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
+江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$订阅源
 江西卫视,https://live.tv.darwinchow.com/channel/jiangxiweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
