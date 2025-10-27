@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-27 13:37:59,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
+2025-10-27 13:56:51,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
@@ -12,6 +12,8 @@ CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 CCTV-13,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
+CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】$订阅源
+CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】$订阅源
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 
 📡卫视频道,#genre#
@@ -62,6 +64,6 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playli
 西藏卫视,https://live.tv.darwinchow.com/channel/xizangweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,https://live.tv.darwinchow.com/channel/xinjiangweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,https://live.tv.darwinchow.com/channel/yunnanweishi?livekey=01WNmrd0JLnST8Iq9ddaSuGWUK1cQz4SVRXvj&userkey=1d97b9128fd6168a$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
