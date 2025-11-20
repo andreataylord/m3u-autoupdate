@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-21 07:31:58,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+2025-11-21 07:55:55,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8$订阅源
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8$订阅源
 CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
