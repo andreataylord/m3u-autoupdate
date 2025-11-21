@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 03:29:18,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
+2025-11-22 03:54:56,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 
 📡卫视频道,#genre#
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
@@ -8,10 +8,9 @@
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
-河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8$订阅源
-河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$订阅源
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
