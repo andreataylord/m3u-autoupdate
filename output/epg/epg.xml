@@ -1,5 +1,119 @@
 <?xml version="1.0" ?>
-<tv date="20260111175444 +0800">
+<tv date="20260111184619 +0800">
+	<channel id="CCTV-1">
+		<display-name lang="zh">CCTV-1</display-name>
+	</channel>
+	<programme channel="CCTV-1" start="20260112010600 +0800" stop="20260112015000 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2026-11</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112015000 +0800" stop="20260112022200 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112022200 +0800" stop="20260112023200 +0800">
+		<title lang="zh">2024秘境之眼-犀鸟养家记(4K)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112023200 +0800" stop="20260112023600 +0800">
+		<title lang="zh">山水间的家-主题曲</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112023600 +0800" stop="20260112024000 +0800">
+		<title lang="zh">非遗里的中国-MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112024000 +0800" stop="20260112024600 +0800">
+		<title lang="zh">三餐四季（第二季）-宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112024600 +0800" stop="20260112042000 +0800">
+		<title lang="zh">山水间的家（第三季）-2</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112042000 +0800" stop="20260112045300 +0800">
+		<title lang="zh">绿水青山中国答卷-15</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112045300 +0800" stop="20260112052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112052700 +0800" stop="20260112060000 +0800">
+		<title lang="zh">寻古中国（第二季）-水下考古1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112060000 +0800" stop="20260112083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112083600 +0800" stop="20260112092100 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2026-12</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112092100 +0800" stop="20260112101100 +0800">
+		<title lang="zh">归队第17集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112101100 +0800" stop="20260112110200 +0800">
+		<title lang="zh">归队第18集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112110200 +0800" stop="20260112115000 +0800">
+		<title lang="zh">归队第19集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112115000 +0800" stop="20260112115200 +0800">
+		<title lang="zh">秘境之眼-2026-5</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112115200 +0800" stop="20260112120000 +0800">
+		<title lang="zh">山水间的家-主题曲</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112120000 +0800" stop="20260112123300 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112123300 +0800" stop="20260112130500 +0800">
+		<title lang="zh">今日说法-2026-10</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112130500 +0800" stop="20260112135300 +0800">
+		<title lang="zh">六姊妹第7集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112135300 +0800" stop="20260112144400 +0800">
+		<title lang="zh">六姊妹第8集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112144400 +0800" stop="20260112153100 +0800">
+		<title lang="zh">六姊妹第9集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112153100 +0800" stop="20260112161900 +0800">
+		<title lang="zh">六姊妹第10集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112161900 +0800" stop="20260112170900 +0800">
+		<title lang="zh">六姊妹第11集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112170900 +0800" stop="20260112174400 +0800">
+		<title lang="zh">第一动画乐园-2026-11</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112174400 +0800" stop="20260112182000 +0800">
+		<title lang="zh">第一动画乐园-2026-12</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112182000 +0800" stop="20260112185000 +0800">
+		<title lang="zh">自然中国-地矿宝藏-高山寻石</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112185000 +0800" stop="20260112190000 +0800">
+		<title lang="zh">秘境之眼-2026-12</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112190000 +0800" stop="20260112193900 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112193900 +0800" stop="20260112200400 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112200400 +0800" stop="20260112210100 +0800">
+		<title lang="zh">一步不停歇 半步不退让-2</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112210100 +0800" stop="20260112210600 +0800">
+		<title lang="zh">前情提要-奇迹-19/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112210600 +0800" stop="20260112212700 +0800">
+		<title lang="zh">奇迹19/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112212700 +0800" stop="20260112212800 +0800">
+		<title lang="zh">前情提要-奇迹-20/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112212800 +0800" stop="20260112220000 +0800">
+		<title lang="zh">奇迹20/24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112220000 +0800" stop="20260112223600 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260112223600 +0800" stop="20260112235900 +0800">
+		<title lang="zh">山水间的家（第三季）-7</title>
+	</programme>
 	<channel id="CCTV-10">
 		<display-name lang="zh">CCTV-10</display-name>
 	</channel>
