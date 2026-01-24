@@ -1,5 +1,119 @@
 <?xml version="1.0" ?>
-<tv date="20260124175500 +0800">
+<tv date="20260124184753 +0800">
+	<channel id="CCTV-1">
+		<display-name lang="zh">CCTV-1</display-name>
+	</channel>
+	<programme channel="CCTV-1" start="20260125004200 +0800" stop="20260125012600 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2026-24</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125012600 +0800" stop="20260125015800 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125015800 +0800" stop="20260125021000 +0800">
+		<title lang="zh">中华古树-功勋树（4K）</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125021000 +0800" stop="20260125022000 +0800">
+		<title lang="zh">中华古树-灵石周槐（4K）</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125022000 +0800" stop="20260125025100 +0800">
+		<title lang="zh">寻味山海-南京</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125025100 +0800" stop="20260125025500 +0800">
+		<title lang="zh">非遗里的中国-MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125025500 +0800" stop="20260125025800 +0800">
+		<title lang="zh">宗师列传·大宋词人传-范仲淹MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125025800 +0800" stop="20260125030500 +0800">
+		<title lang="zh">三餐四季（第二季）-宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125030500 +0800" stop="20260125042000 +0800">
+		<title lang="zh">星光大道-2026-7</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125042000 +0800" stop="20260125045300 +0800">
+		<title lang="zh">绿水青山中国答卷-18</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125045300 +0800" stop="20260125052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125052700 +0800" stop="20260125060000 +0800">
+		<title lang="zh">寻古中国（第二季）-陶之路3</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125060000 +0800" stop="20260125083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125083600 +0800" stop="20260125092200 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2026-25</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125092200 +0800" stop="20260125101200 +0800">
+		<title lang="zh">人民的选择第22集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125101200 +0800" stop="20260125110200 +0800">
+		<title lang="zh">人民的选择第23集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125110200 +0800" stop="20260125114900 +0800">
+		<title lang="zh">人民的选择第24集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125114900 +0800" stop="20260125115400 +0800">
+		<title lang="zh">三餐四季（第二季）-宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125115400 +0800" stop="20260125120000 +0800">
+		<title lang="zh">秘境之眼-2026-18</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125120000 +0800" stop="20260125123300 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125123300 +0800" stop="20260125141200 +0800">
+		<title lang="zh">宗师列传·大宋词人传-秦观</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125141200 +0800" stop="20260125150200 +0800">
+		<title lang="zh">南来北往第32集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125150200 +0800" stop="20260125155200 +0800">
+		<title lang="zh">南来北往第33集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125155200 +0800" stop="20260125164100 +0800">
+		<title lang="zh">南来北往第34集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125164100 +0800" stop="20260125173200 +0800">
+		<title lang="zh">南来北往第35集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125173200 +0800" stop="20260125185000 +0800">
+		<title lang="zh">CMG动漫盛典-1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125185000 +0800" stop="20260125190000 +0800">
+		<title lang="zh">秘境之眼-2026-25</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125190000 +0800" stop="20260125193800 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125193800 +0800" stop="20260125200200 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125200200 +0800" stop="20260125205000 +0800">
+		<title lang="zh">习近平法治思想系列讲读-5</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125205000 +0800" stop="20260125205300 +0800">
+		<title lang="zh">前情提要-太平年-第5集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125205300 +0800" stop="20260125214400 +0800">
+		<title lang="zh">太平年第5集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125214400 +0800" stop="20260125215100 +0800">
+		<title lang="zh">非遗里的中国-MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125215100 +0800" stop="20260125220000 +0800">
+		<title lang="zh">三餐四季（第二季）-宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125220000 +0800" stop="20260125223300 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125223300 +0800" stop="20260125232400 +0800">
+		<title lang="zh">太平年第6集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260125232400 +0800" stop="20260125235900 +0800">
+		<title lang="zh">山水间的家（第四季）-7</title>
+	</programme>
 	<channel id="CCTV-10">
 		<display-name lang="zh">CCTV-10</display-name>
 	</channel>
@@ -4604,114 +4718,6 @@
 	</programme>
 	<programme channel="黑龙江卫视" start="20260125233300 +0800" stop="20260125235900 +0800">
 		<title lang="zh">活力剧场:亮剑</title>
-	</programme>
-	<channel id="CCTV-1">
-		<display-name lang="zh">CCTV-1</display-name>
-	</channel>
-	<programme channel="CCTV-1" start="20260125004200 +0800" stop="20260125012600 +0800">
-		<title lang="zh">生活早参考-特别节目(生活圈)2026-24 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125012600 +0800" stop="20260125015800 +0800">
-		<title lang="zh">晚间新闻 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125015800 +0800" stop="20260125021000 +0800">
-		<title lang="zh">中华古树-功勋树(4K) 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125021000 +0800" stop="20260125022000 +0800">
-		<title lang="zh">中华古树-灵石周槐(4K) 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125022000 +0800" stop="20260125025100 +0800">
-		<title lang="zh">寻味山海-南京 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125025100 +0800" stop="20260125025500 +0800">
-		<title lang="zh">非遗里的中国-MV 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125025500 +0800" stop="20260125030500 +0800">
-		<title lang="zh">宗师列传·大宋词人传-范仲淹MV 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125030500 +0800" stop="20260125042000 +0800">
-		<title lang="zh">星光大道-2026-7 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125042000 +0800" stop="20260125045300 +0800">
-		<title lang="zh">绿水青山中国答卷-18 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125045300 +0800" stop="20260125052700 +0800">
-		<title lang="zh">新闻联播 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125052700 +0800" stop="20260125060000 +0800">
-		<title lang="zh">寻古中国(第二季)-陶之路3 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125060000 +0800" stop="20260125083600 +0800">
-		<title lang="zh">朝闻天下 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125083600 +0800" stop="20260125092200 +0800">
-		<title lang="zh">生活早参考-特别节目(生活圈)2026-25 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125092200 +0800" stop="20260125101200 +0800">
-		<title lang="zh">人民的选择第22集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125101200 +0800" stop="20260125110200 +0800">
-		<title lang="zh">人民的选择第23集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125110200 +0800" stop="20260125115400 +0800">
-		<title lang="zh">人民的选择第24集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125115400 +0800" stop="20260125120000 +0800">
-		<title lang="zh">秘境之眼-2026-18 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125120000 +0800" stop="20260125123300 +0800">
-		<title lang="zh">新闻30分 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125123300 +0800" stop="20260125141300 +0800">
-		<title lang="zh">三餐四季(第二季)-1 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125141300 +0800" stop="20260125150200 +0800">
-		<title lang="zh">南来北往第32集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125150200 +0800" stop="20260125155200 +0800">
-		<title lang="zh">南来北往第33集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125155200 +0800" stop="20260125164100 +0800">
-		<title lang="zh">南来北往第34集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125164100 +0800" stop="20260125173200 +0800">
-		<title lang="zh">南来北往第35集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125173200 +0800" stop="20260125185000 +0800">
-		<title lang="zh">CMG动漫盛典-1 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125185000 +0800" stop="20260125190000 +0800">
-		<title lang="zh">秘境之眼-2026-25 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125190000 +0800" stop="20260125193100 +0800">
-		<title lang="zh">新闻联播 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125193100 +0800" stop="20260125193800 +0800">
-		<title lang="zh">天气预报 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125193800 +0800" stop="20260125200200 +0800">
-		<title lang="zh">焦点访谈 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125200200 +0800" stop="20260125205000 +0800">
-		<title lang="zh">习近平法治思想系列讲读-5 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125205000 +0800" stop="20260125205300 +0800">
-		<title lang="zh">前情提要-太平年-第5集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125205300 +0800" stop="20260125214400 +0800">
-		<title lang="zh">太平年第5集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125214400 +0800" stop="20260125220000 +0800">
-		<title lang="zh">非遗里的中国-MV 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125220000 +0800" stop="20260125223300 +0800">
-		<title lang="zh">晚间新闻 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125223300 +0800" stop="20260125232400 +0800">
-		<title lang="zh">太平年第6集 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
-	</programme>
-	<programme channel="CCTV-1" start="20260125232400 +0800" stop="20260125010200 +0800">
-		<title lang="zh">山水间的家(第四季)-7 请使用http://epg.51zmt.top:8000/e.xml.gz，非压缩格式将停止提供。</title>
 	</programme>
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
